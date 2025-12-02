@@ -1,7 +1,7 @@
 # Task 8 Simple Calculator 
 
-![](./t1.jpeng)
-![](./t2.jpeng)
-![](/.t3.jpeng)
-![](./t4.jpeng)
-![](./t5.jpeng)
+![](./t1.jpeg)
+![](./t2.jpeg)
+![](/.t3.jpeg)
+![](./t4.jpeg)
+![](./t5.jpeg)
